@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		049F47401D0C0C3C008C9319 /* snapshot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 049F473F1D0C0C3C008C9319 /* snapshot.gif */; };
 		04B507A11D09384700BB5FC9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B507A01D09384700BB5FC9 /* main.m */; };
 		04B507A41D09384800BB5FC9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B507A31D09384800BB5FC9 /* AppDelegate.m */; };
 		04B507A71D09384800BB5FC9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B507A61D09384800BB5FC9 /* ViewController.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		049F473F1D0C0C3C008C9319 /* snapshot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = snapshot.gif; sourceTree = "<group>"; };
 		04B5079C1D09384700BB5FC9 /* PDAutoSlideScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PDAutoSlideScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B507A01D09384700BB5FC9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04B507A21D09384800BB5FC9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				04B507AB1D09384800BB5FC9 /* Assets.xcassets */,
 				04B507AD1D09384800BB5FC9 /* LaunchScreen.storyboard */,
 				04B507B01D09384800BB5FC9 /* Info.plist */,
+				049F473F1D0C0C3C008C9319 /* snapshot.gif */,
 				04B5079F1D09384700BB5FC9 /* Supporting Files */,
 			);
 			path = PDAutoSlideScrollView;
@@ -150,6 +153,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				049F47401D0C0C3C008C9319 /* snapshot.gif in Resources */,
 				04B507AF1D09384800BB5FC9 /* LaunchScreen.storyboard in Resources */,
 				04B507AC1D09384800BB5FC9 /* Assets.xcassets in Resources */,
 				04B507AA1D09384800BB5FC9 /* Main.storyboard in Resources */,
@@ -317,6 +321,7 @@
 				04B507B51D09384800BB5FC9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
